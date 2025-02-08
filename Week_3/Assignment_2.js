@@ -9,4 +9,4 @@ let div = num1 / num2;
 alert("Addition: " + add + "\n" +
       "Subtraction: " + sub + "\n" +
       "Multiplication: " + mul + "\n" +
-      "Division: " + div);
+      "Division: " + div); 
